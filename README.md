@@ -14,7 +14,7 @@
 <!-- 💻 **5⭐** on **HackerRank** in **Python, Java & SQL** -->
 <!-- 👨‍💻 **1⭐** on **CodeChef**  -->
 - 📫 Feel free to contact me : **nishantkr2003nna@gmail.com**
-- ⚡ Fun fact **I am Cricketer**
+- ⚡ Fun fact **I am cricketer 🏏**
 
  <!-- ## 🤝🏻 &nbsp;Connect with Me
 
