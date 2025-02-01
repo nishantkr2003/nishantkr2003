@@ -134,9 +134,9 @@
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
-	<a href="https://linktr.ee/devgoyalg" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
-	<a href="https://github.com/DevGoyalG" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/devgoyalg/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<!--<a href="https://linktr.ee/devgoyalg" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a> -->
+	<a href="https://github.com/nishantkr2003" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/nishant-kumar-749279260/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 <!-- 	<a href="https://www.facebook.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
 	<a href="https://x.com/NishantTweets26" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Instagram"/></a>
 	<a href="https://www.instagram.com/nishantkr_2003/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="X"/></a>
