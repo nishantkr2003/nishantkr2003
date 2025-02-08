@@ -1,0 +1,16 @@
+name: Update GitHub Stats and Activity Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"  # Runs every Sunday at midnight
+  workflow_dispatch: # Allows manual triggering of workflow
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update GitHub Profile Stats
+        run: echo "Updating GitHub stats and activity graph for Nishant"
