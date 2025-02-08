@@ -1,4 +1,4 @@
-name: Update GitHub Stats and Activity Graph
+name: update readme
 
 on:
   schedule:
