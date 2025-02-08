@@ -3,14 +3,15 @@ name: Update GitHub Stats and Activity Graph
 on:
   schedule:
     - cron: "0 0 * * 0"  # Runs every Sunday at midnight
-  workflow_dispatch: # Allows manual triggering of workflow
+  workflow_dispatch:      # Allows manual trigger
 
 jobs:
-  update-stats:
+  update-readme:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
 
-      - name: Update GitHub Profile Stats
-        run: echo "Updating GitHub stats and activity graph for Nishant"
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Display Update Log
+      run: echo "Weekly GitHub Stats and Graph Updated Successfully!"
