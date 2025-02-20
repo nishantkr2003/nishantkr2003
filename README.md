@@ -122,19 +122,20 @@
 
 ## 🔥 Streak Stats
 
+
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nishant's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantkr2003&theme=monokai-metallian&hide_border=true"/>
+  <a href="https://git.io/streak-stats">
+    <img title="🔥 Get streak stats for your profile" alt="Nishant's Streak" src="https://streak-stats.demolab.com/?user=nishantkr2003&theme=algolia&hide_border=true"/>
   </a>
+</p>
   <p align="center"> If you can dream it, you can do it 🔥 </p>
 </p>
-
 
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
-	<!--<a href="https://linktr.ee/devgoyalg" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a> -->
+	<a href="https://linktr.ee/nishantkr2003nna" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a> 
 	<a href="https://github.com/nishantkr2003" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/nishant-kumar-749279260/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 <!-- 	<a href="https://www.facebook.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
