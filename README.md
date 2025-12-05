@@ -66,9 +66,19 @@ Country = "🇮🇳"
 
 ### 2️⃣ **ResumeForge - Where AI Meets Professional Excellence**  
 🔗An AI-powered tool that helps users craft professional resumes by generating personalized content from simple form inputs.
+
 - **Tech Stack:** React.js, Vite, Tailwind CSS, Shadcn, Supabase, API  
 - **Live Demo:** [ResumeForge](https://resumeforge-r11e.onrender.com/)
 
+---
+
+###  3️⃣ **SymptomX – AI-Powered Symptom Checker**
+🔗 An intelligent web application that predicts diseases and recommends medicines based on user symptoms using machine learning.
+
+- **Tech Stack:** Python, Flask, Scikit-learn, HTML, CSS, JavaScript
+- **Live Demo:** [SymptomX](https://symptomx.up.railway.app/)
+
+---
 
 ## 🌐 Socials:
 
